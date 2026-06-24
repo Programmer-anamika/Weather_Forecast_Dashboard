@@ -15,8 +15,8 @@ An advanced, custom-themed Power BI dashboard that aggregates, models, and visua
 As demonstrated in `Weather_Dashboard_2.jpg`, this report utilizes complex data relationships to surface deep environmental insights:
 
 **KPI Multi-Cards:** Streamlined reporting of core real-time metrics including Temperature (°C), Humidity, Wind Speed (Kph), Visibility, Barometric Pressure, and UV Index.
-**Dynamic Predictive Forecasting:** A customized trend visualization tracking multi-day forecasted temperature variations down to granular decimal points (ranging from $31.83^\circ\text{C}$ to $30.56^\circ\text{C}$).
-**Comprehensive Air Quality Index (AQI):** A centralized conditional-formatting radial gauge tracking the primary PM10 metric alongside detailed breakouts for specific atmospheric pollutants ($\text{O}_3$, $\text{SO}_2$, $\text{PM}_{2.5}$, $\text{CO}$, $\text{NO}_2$).
+**Dynamic Predictive Forecasting:** A customized trend visualization tracking multi-day forecasted temperature variations down to granular decimal points.
+**Comprehensive Air Quality Index (AQI):** A centralized conditional-formatting radial gauge tracking the primary PM10 metric alongside detailed breakouts for specific atmospheric pollutants.
 **Cross-Filtering & Localization:** Built-in support for switching between geographic regional data (such as Bangalore, Assam, and Gujarat) with full cross-filtering across all report visuals.
 **Probability Tracking Matrix:** A structured visualization breaking down the "Chance of Rain" by specific calendar days.
 
